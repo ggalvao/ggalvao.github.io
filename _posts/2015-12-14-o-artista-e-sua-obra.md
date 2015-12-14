@@ -6,7 +6,7 @@ headline:
 modified: 2015-12-14
 category: music
 tags: [music,arts]
-imagefeature:
+imagefeature: barenboim.jpg
 mathjax:
 chart:
 comments: true

@@ -21,7 +21,8 @@ A morte dele, então, me lembrou que esse efeito ocorreu novamente comigo, cerca
 
 Weiland, segundo artigo recém-publicado por sua ex-mulher e assinado por ela e seus dois filhos, era um pai ausente e sua relação com as drogas extremamente prejudicial a todos ao seu redor. Honestamente, me parece incrível é que ele tenha sobrevivido tanto tempo. Em seus últimos vídeos vemos um zumbi praticamente incapaz de qualquer performance. Como admirar alguém nessas condições?
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/vewupKFIEAE" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/vewupKFIEAE" frameborder="0" allowfullscreen></iframe>
+<i>Abendlich strahlt der Sonne Auge</i>
 
 O mesmo se passou em graus de magnitude tão maiores quanto os da diferença entre o calibre do simples rock'n'roll sem maiores pretensões e do monumento que é a obra de Wagner quando ouvi <i>Abendlich strahlt der Sonne Auge</i> (O Ouro do Reno) pela primeira vez. Eu fiquei em êxtase ao mesmo tempo em que sentia culpa por estar ouvindo a música do 'músico do nazismo' (Wagner era o compositor preferido de Hitler). Esse foi um grande conflito, para mim, durante muito tempo. Lembro-me de, à época, gastar bastante tempo lendo sobre a história de Wagner e sua relação com o nazismo nas esperanças de racionalizar alguma forma de ouvir sua música sem culpa. Por volta da mesma época, em julho de 2001, Daniel Barenboim causou um enorme choque em Israel ao <a href="http://www.theguardian.com/world/2001/jul/09/ewenmacaskill">tocar Wagner em um de seus programas</a>. Deste acontecimento surgiram enormes discussões que apontavam todas na mesma direção: devemos separar as obras de seus criadores. As obras ficam, as pessoas se vão.
 

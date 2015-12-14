@@ -1,54 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     
     <url>
-        <loc>http://ggalvao.github.io</loc>
+        <loc>http://ggalvao.github.io/</loc>
+    </url> 
+    <url>
+        <loc>http://ggalvao.github.io/featured</loc>
+    </url> 
+    <url>
+        <loc>http://ggalvao.github.io/categories</loc>
+    </url> 
+    <url>
+        <loc>http://ggalvao.github.io/about</loc>
     </url>
     
     
     <url>
-        <loc>http://ggalvao.github.io/404.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/about/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/categories/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/featured/</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/feed.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/index.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/links.jsonp</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/search.json</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/sitemap.xml</loc>
-    </url>
-    
-    <url>
-        <loc>http://ggalvao.github.io/tags/index.html</loc>
-    </url>
-    
-
-    
-    <url>
-        <loc>http://ggalvao.github.io/music/o-artista-e-a-obra</loc>
+        <loc>http://ggalvao.github.io/music/o-artista-e-sua-obra</loc>
     </url>
     
 </urlset>

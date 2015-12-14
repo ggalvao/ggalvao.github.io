@@ -17,13 +17,13 @@ Description: Awesome dude, awesome life
 -->
 <head>
 <meta charset="utf-8">
-<title>FEATURED POSTS &vert; GABRIEL GALVãO</title>
+<title>FEATURED POSTS &#8211; Gabriel Galvão</title>
 <meta name="description" content="An archive of posts sorted by date.">
 
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="http://ggalvao.github.io/images/logo.png">
+<meta name="twitter:image" content="http://ggalvao.github.io/images/logo.jpg">
 <meta name="twitter:title" content="FEATURED POSTS">
 <meta name="twitter:description" content="An archive of posts sorted by date.">
 <meta name="twitter:creator" content="@gmgalvao">
@@ -48,17 +48,19 @@ Description: Awesome dude, awesome life
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    
+    <link rel="stylesheet" type="text/css" href="http://ggalvao.github.io/assets/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="http://ggalvao.github.io/assets/css/style.css" />
 
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,600,300,800,700' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" href="http://ggalvao.github.io/assets/css/vendor/font-awesome.min.css">
-    <link rel="stylesheet" href="http://ggalvao.github.io/assets/css/vendor/normalize.css">
-    <link rel="stylesheet" href="http://ggalvao.github.io/assets/css/vendor/nprogress.css">
-    <link rel="stylesheet" href="http://ggalvao.github.io/assets/css/vendor/foundation.min.css">
-    <link rel="stylesheet" href="http://ggalvao.github.io/assets/css/style.css">
-    <link rel="stylesheet" href="http://ggalvao.github.io/assets/css/post.css">
-
+<div class="search-wrapper">
+    <div class="search-form">
+        <input type="text" class="search-field" placeholder="Search...">
+        <i class="icon-remove-sign"></i>
+        <ul class="search-results post-list"></ul><!-- /.search-results -->
+    </div><!-- /.search-form -->
+</div><!-- ./search-wrapper -->
 
 
 
@@ -78,28 +80,13 @@ Description: Awesome dude, awesome life
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://ggalvao.github.io/images/apple-touch-icon-144x144-precomposed.png">
 
 </head>
-<body class="post-template page" itemscope itemtype="http://schema.org/WebPage">
-
-<main id="notepad-page-container" class="notepad-page-container" role="main">
-    
-    
-        <header class="notepad-page-header">
-            <div class="notepad-page-menu-header">
-                
-                    <a class="notepad-blog-logo" href="http://ggalvao.github.io">
-                        <img src="http://ggalvao.github.io/images/logo.png" alt="Blog Logo">
-                    </a>
-                
-                
-                
-                <div class="notepad-blog-menu">      
-    <div class="notepad-mobile-menu show-for-small">
-        <a href="#"><i class="fa fa-bars"></i></a>
-    </div>
-    <ul class="notepad-menu">
-        <li class="notepad-mobile-close-btn show-for-small text-right">
-            <a href="#"><i class="fa fa-times"></i></a>
-        </li>
+<body class="home-template" itemscope itemtype="http://schema.org/WebPage">
+<div id="fade"></div>
+<a id="slide" class="animated fade"></a>
+<aside id="sidebar">
+    <nav id="navigation">
+    <h2>MENU</h2>
+    <hr>
 
             <li>
                     <a href="http://ggalvao.github.io/">Home</a>
@@ -118,104 +105,231 @@ Description: Awesome dude, awesome life
                  </li>
             
            <li><a href="http://ggalvao.github.io/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
-    </ul>
-</div>
-            </div>
-            <div class="notepad-page-title row">
-                <div class="small-12 columns">
-                    <h1>FEATURED POSTS</h1>
-                </div>
-            </div>
-        </header>
+    </nav>
+    
+    
+</aside>
 
-<article class="notepad-page-content">
-                    <div>
+<header id="masthead" class="blog-background overlay align-center align-middle animated from-bottom"  style="background-image: url(http://ggalvao.github.io/images/)" itemscope itemtype="http://schema.org/Organization">
+
+
+    <button class="menu-button animated fade dosearch">
+        <i class="icon-search"></i>
+    </button>
+
+
+    <div class="inner">
+        <div class="container">
+            <a class="brand" href="http://ggalvao.github.io" role="banner" itemprop="url">
+
+                <img itemprop="logo" src="http://ggalvao.github.io/images/logo.jpg" alt="Gabriel Galvão Logo" />
+
+            <h1 class="blog-title light" itemprop="name">
+                Gabriel Galvão
+            </h1>
+                
+            </a>
+        </div>
+    </div>
+    
+    
+    
+    
+</header>
+<div id="main" class="content" role="main" itemprop="mainContentOfPage">
+    <div class="container">
+
+        <div class="row">
+            <article class="page col-md-8 col-md-offset-2">
+
+		            
+		            
+		            
+                    <header class="post-header">
+                        
+                        <h1 class="post-title text-center hyper lighter bordered-bottom">FEATURED POSTS</h1>
+                        
+                        <div class="post-info text-center small">
+                            
+                            &nbsp;<span class="post-tags"><i class="icon-time"></i>&nbsp;Less than 1 minute read</span>
+                        </div>
+                    </header>
+                    <div class="page-body" itemprop="description">
+                        
 <ul class="post-list">
 
 
 
-  <li><article><i class="fa fa-star-half-o"></i> <a href="http://ggalvao.github.io/music/o-artista-e-a-obra">O Artista e sua Obra <span class="entry-date"><time datetime="2015-12-14T00:00:00-02:00">December 14, 2015</time></span></a></article></li>
+  <li><article><i class="fa fa-star-half-o"></i> <a href="http://ggalvao.github.io/music/o-artista-e-sua-obra">O Artista e sua Obra <span class="entry-date"><time datetime="2015-12-14T00:00:00-02:00">December 14, 2015</time></span></a></article></li>
 
 
 </ul>
+
+                    </div>
+                    </footer>
+            </article>
+        </div>
+    </div>
 </div>
-</article>
-        <div class="cf"></div>
-    <footer class="notepad-site-footer">
-    <div class="copyright">
-         <section>All content copyright <a href="http://ggalvao.github.io/about">Gabriel de Medeiros Galvão</a> &copy; 2015 &bull; All rights reserved.</section>
-         <section>Proudly published with <a class="icon-ghost" href="https://jekyllrb.com/">Jekyll</a></section>
-    </div>
-    <div class="social-icons">
-        
-        
-        <a href="http://twitter.com/gmgalvao">
-            <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-twitter fa-stack-1x"></i>
-            </span>
-        </a>
-        
-        
-        
-        <a href="http://instagram.com/galvaomgabriel">
-            <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-instagram fa-stack-1x"></i>
-            </span>
-        </a>
-        
-        
-        <a href="http://github.com/ggalvao">
-            <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-github fa-stack-1x"></i>
-            </span>
-        </a>
-        
-        
-        <a href="http://facebook.com/gabrielmgalvao">
-            <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
-                <i class="fa fa-facebook fa-stack-1x"></i>
-            </span>
-        </a>
-        
+    
+<footer id="footer"  class="blog-background overlay text-center align-middle animated from-top" style="background-image: url(http://ggalvao.github.io/images/)" >
+
+
+    <div class="inner">
+        <div class="container">
+
+            <ul class="social-icons">
+            <li>
+                <a href="http://twitter.com/gmgalvao" data-toggle="tooltip" title="Gabriel de Medeiros Galvão on Twitter" target="_blank">
+                    <i class="icon-twitter"></i>
+                </a>
+            </li>
+            <li>
+                <a href="http://facebook.com/gabrielmgalvao" data-toggle="tooltip" title="Gabriel de Medeiros Galvão on Facebook" target="_blank">
+                    <i class="icon-facebook"></i>
+                </a>
+            </li>
+            
+            
+            
+            <li>
+                <a href="http://instagram.com/galvaomgabriel" data-toggle="tooltip" title="Gabriel de Medeiros Galvão on Instagram" target="_blank">
+                    <i class="icon-instagram"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://github.com/ggalvao" data-toggle="tooltip" title="Gabriel de Medeiros Galvão on Github" target="_blank">
+                    <i class="icon-github"></i>
+                </a>
+            </li>
+        </ul>
+            <div>
+                <a href="http://ggalvao.github.io/about/">Gabriel de Medeiros Galvão</a> &copy; 2015 &bull; All rights reserved.
+            </div>
+            <ul class="menu-items">
+            
+            <li>
+                
+                    <a href="http://ggalvao.github.io/"><i class="icon-home"></i></a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="http://ggalvao.github.io/featured">Featured Posts</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="http://ggalvao.github.io/categories">Categories</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li>
+                
+                    <a href="http://ggalvao.github.io/about">About</a>&nbsp;&bull;
+                 
+            </li>
+            
+            <li><a href="http://ggalvao.github.io/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+        </ul>
+        </div>
     </div>
     
-    <div class="cf"></div>
+    
+    
 </footer>
-</main>
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="http://ggalvao.github.io/assets/js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
-    <script src="http://ggalvao.github.io/assets/js/vendor/modernizr.js"></script>
-    <script src="http://ggalvao.github.io/assets/js/foundation.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://ggalvao.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://ggalvao.github.io/assets/js/scripts.min.js"></script>
+<script type="text/javascript" src="http://ggalvao.github.io/assets/js/waypoints.min.js"></script>
+<script type="text/javascript" src="http://ggalvao.github.io/assets/js/script.js"></script>
+<script type='text/javascript'>console.log("HMFaysal Omega Theme Version 2.0");</script>
+<script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
+<script type='text/javascript'>$(document).ready(function(){$(".time").text(function(a,b){return Math.round(parseFloat(b))})});</script>
+
+<script type="text/javascript">
+
+/*      Slides       */
+
+$("a#slide").click(function(){
+    $("#sidebar,body,a#slide,#fade").addClass("slide")
+});
+
+$("#fade,#header,#posts-container").click(function(){
+    $("#sidebar,body,a#slide,#fade").removeClass("slide")
+});
+
+$("a#click-filter").click(function(){
+    $("#slide-filter").slideToggle("medium");
+    $("#slide-pages").slideOut("medium");
+});
+
+$("a#click-pages").click(function(){
+    $("#slide-pages").slideToggle("medium");
+    $("#slide-filter").slideOut("medium");
+});
+
+/*      End-Slides      */
+
+</script>
+
+
+<!-- Jekyll Simple Search option -->
+<script>
+  $(document).ready(function() {
+      $('.search-field').simpleJekyllSearch({
+          jsonFile : 'http://ggalvao.github.io/search.json',
+          searchResults : '.search-results',
+          template : '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          noResults: '<p>Nothing found.</p>'
+        });
+  });
+
+  (function( $, window, undefined ) {
     
-    <script src="http://ggalvao.github.io/assets/js/notepad.js"></script>
-    <script src="http://ggalvao.github.io/assets/js/scripts.min.js"></script>
-    <script src="http://ggalvao.github.io/assets/js/vendor/nprogress.js"></script>
-
-    <script>
-      $(document).foundation();
-    </script>
-    <script type='text/javascript'>console.log("HMFaysal Notepad Theme Version 2.0");</script>
-    <script type='text/javascript'>console.log("https://alum.mit.edu/www/hmfaysal");</script>
+     var bs = {
+          close: $(".icon-remove-sign"),
+          searchform: $(".search-form"),
+          canvas: $("body"),
+          dothis: $('.dosearch')
+      };
+    
+    bs.dothis.on('click', function() {
+      $('.search-wrapper').css({ display: "block" });
+      bs.searchform.toggleClass('active');
+      bs.searchform.find('input').focus();
+      bs.canvas.toggleClass('search-overlay');
+    });
+    
+      bs.close.on('click', function() {
+        $('.search-wrapper').removeAttr( 'style' );
+        bs.searchform.toggleClass('active');
+        bs.canvas.removeClass('search-overlay');
+    });
+  })( jQuery, window );
+</script>
 
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-69628712-1']);
+  _gaq.push(['_trackPageview']);
 
-  ga('create', 'UA-69628712-1', 'auto');
-  ga('require', 'displayfeatures');
-  ga('send', 'pageview');
-
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 </script>
 
-<script>NProgress.start();var interval=setInterval(function(){NProgress.inc()},1000);jQuery(window).load(function(){clearInterval(interval);NProgress.done()});jQuery(window).unload(function(){NProgress.start()});</script>  
+  
 </body>
 </html>

@@ -2,7 +2,7 @@
 layout: post
 title: "O Rápido e o Lento"
 description:
-headline:
+headline: Hoje temos o Whatsapp bloqueado em todo o território nacional. A alegação é a de que a competição é desleal com as operadoras telefônicas pelo fato de seu serviço não ser regulado. Essa situação onde temos serviços desregulados sofrendo fortes investidas de corporações com forte lobby junto ao governo (Uber também, para ficar só com um exemplo) só ocorre por um motivo: os grandes avanços tecnológicos dos últimos anos nos trouxeram ao que se convencionou chamar de Sociedade em Rede. A internet, além de revolucionar a troca de informação, criou novos mercados antes inexistentes e modificou irreversivelmente a maneira como provedores de serviços e consumidores se relacionam.
 modified: 2015-12-17
 category: economy
 tags: [economy]

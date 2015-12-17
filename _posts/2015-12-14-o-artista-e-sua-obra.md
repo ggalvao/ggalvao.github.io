@@ -28,6 +28,6 @@ O mesmo se passou em graus de magnitude tão maiores quanto os da diferença ent
 
 Mais ainda, dada a falibilidade humana, todos os artistas terão algo de imoral contra sua própria história. Deixemos as obras à análise fria do Tempo, que descarta o que não possui valor e chancela imortalidade ao que é verdadeiramente grande. A grande arte é grande principalmente pelo seu poder de manifestar uma Verdade e nos colocar em contato com algo maior do que nós. Como Picasso supostamente disse,
 
-<blockquote>Todos sabemos que a arte não é verdade. A arte é uma mentira que nos faz perceber a verdade - ao menos a verdade que nos é dada a compreender. O artista deve saber de que modo ceonvencer os outros que suas mentiras são verdadeiras.</blockquote>
+<blockquote>Todos sabemos que a arte não é verdade. A arte é uma mentira que nos faz perceber a verdade - ao menos a verdade que nos é dada a compreender. O artista deve saber de que modo convencer os outros que suas mentiras são verdadeiras.</blockquote>
 
 E todos os grandes artistas nos legam essas grandes mentiras.

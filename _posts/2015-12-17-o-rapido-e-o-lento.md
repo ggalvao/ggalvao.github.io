@@ -10,7 +10,7 @@ imagefeature: biglittle.jpg
 mathjax:
 chart:
 comments: true
-featured: true
+featured: false
 ---
 
 Frédéric Bastiat foi um economista francês que viveu no século XIX. A maior parte de sua obra foi escrita no período da Revolução de 1848. Liberal ferrenho, descreve de maneira didática como o uso da lei para fins além da proteção das liberdades do indivíduo e da propriedade privada descamba facilmente para a diminuição das liberdades e a consequente espoliação de todos. No livro <a href="http://www.institutcoppet.org/wp-content/uploads/2011/01/La-Loi.pdf">'La loi' (A Lei)</a> entra fundo e detalha essa argumentação.

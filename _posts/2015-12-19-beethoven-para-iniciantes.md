@@ -12,7 +12,6 @@ chart:
 comments: true
 featured: false
 ---
-Beethoven: um guia para iniciantes
 
 No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra.
 

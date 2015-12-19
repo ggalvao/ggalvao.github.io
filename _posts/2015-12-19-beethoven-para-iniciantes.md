@@ -1,8 +1,8 @@
-﻿---
+---
 layout: post
 title: "Beethoven: um guia para iniciantes"
-description: No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra.
-headline: No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra.
+description: "No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra."
+headline: "No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra."
 modified: 2015-12-19
 category: music
 tags: [music]

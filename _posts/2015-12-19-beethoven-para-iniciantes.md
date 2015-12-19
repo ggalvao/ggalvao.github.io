@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beethoven: um guia para iniciantes"
-description: "No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra."
+description: 
 headline: "No último dia 17 tivemos o 245 aniversário de Beethoven. Como maneira de prestar homenagem ao mestre, resolvi escrever um guia para iniciantes navegarem em sua obra."
 modified: 2015-12-19
 category: music
@@ -24,49 +24,57 @@ Em geral se divide a obra de Beethoven como sendo de três fases.
 
 Na primeira fase, mais ou menos de 1794 a 1800, temos obras com forte influência de Haydn, que foi seu professor. Também há influência de Mozart e de Salieri, que foi seu professor de composição vocal. Nessa fase, o piano é o instrumento dominante.
 
-Sonata "Primavera" | Kyung Wha Chung
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SkyA09JitSg" frameborder="0" allowfullscreen></iframe>
+Sonata "Primavera" | Kyung Wha Chung
 
-Sonata para Piano, Op. 28 | Daniel Barenboim
 <iframe width="420" height="315" src="https://www.youtube.com/embed/IblxeFAcqrc" frameborder="0" allowfullscreen></iframe>
+Sonata para Piano, Op. 28 | Daniel Barenboim
 
-Primeira Sinfonia | Karajan, Filarmônica de Berlim
 <iframe width="420" height="315" src="https://www.youtube.com/embed/6Pr6Wvqz8FY" frameborder="0" allowfullscreen></iframe>
+Primeira Sinfonia | Karajan, Filarmônica de Berlim
 
-Sonata Kreutzer | Gidon Kremer, Martha Argerich 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/tlqMnCv3Ces" frameborder="0" allowfullscreen></iframe>
+Sonata Kreutzer | Gidon Kremer, Martha Argerich 
+
+---
 
 De 1800 até 1815, na segunda fase temos suas obras mais famosas: as Terceira, Quarta, Quinta e Sexta sinfonias, o 'Imperador' (o Concerto para Piano No.5) e sua única ópera, 'Fidelio' e sonatas para piano como a 'Ao Luar', Appassionata e 'A Tempestade'. Deixei a Quinta de fora dos vídeos recomendados pois todo mundo já a conhece. 
 
-Sinfonia No. 6, Pastoral, na transcrição para piano por Liszt. Glenn Gould
-<iframe width="420" height="315" src="https://www.youtube.com/embed/E_8Y_8qthEI" frameborder="0" allowfullscreen></iframe>
+---
 
-Sinfonia No. 6, Pastoral, Bernstein
 <iframe width="420" height="315" src="https://www.youtube.com/embed/t2VY33VXnrQ" frameborder="0" allowfullscreen></iframe>
+Sinfonia No. 6, Pastoral | Leonard Bernstein
 
-Árias de Fidelio, 'Ha!, Welch' ein Augenblick' e Jetzt Alter. 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E_8Y_8qthEI" frameborder="0" allowfullscreen></iframe>
+Sinfonia No. 6, Pastoral | na transcrição para piano por Liszt. Glenn Gould
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/av0vQwvD55c" frameborder="0" allowfullscreen></iframe>
+Árias de Fidelio, 'Ha!, Welch' ein Augenblick' e 'Jetzt Alter'.
 
-Imperador, Concerto para Piano No.5, Daniel Barenboim
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7EcERd6E0ws" frameborder="0" allowfullscreen></iframe>
+Imperador, Concerto para Piano No.5 | Daniel Barenboim
 
-Sonata 'Ao Luar', Valentina Lisitsa
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OsOUcikyGRk" frameborder="0" allowfullscreen></iframe>
+Sonata 'Ao Luar' | Valentina Lisitsa
 
-Sonata 'A Tempestade', Daniel Barenboim
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8THsjcAMdI" frameborder="0" allowfullscreen></iframe>
+Sonata 'A Tempestade' | Daniel Barenboim
+
+---
 
 De 1815 em diante, temos a terceira fase. Nela, temos Beethoven mais retraído. Sua surdez se tornou um problema cada vez maior e o fez se isolar até de seus amigos mais próximos. Doença e problemas familiares também o afetaram. Nesta fase sua obra adquire um caráter meditativo e se torna cada vez mais abstratas. Nesse período que surgem obras que levam a quebra com o formalismo clássico a níveis superiores. A sonata para piano Op. 106, Hammerklavier, é prova disso. As demarcações das seções da forma-sonata são borradas, gerando estruturas gigantescas, onde o desenvolvimento dos temas foi levado a extremos nunca antes vistos. Também é a fase dos Quartetos de Cordas e da Nona Sinfonia. 
 
-A Grande Fuga (Große Fuge), Quarteto Alban Berg
+---
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XEZXjW_s0Qs" frameborder="0" allowfullscreen></iframe>
+A Grande Fuga (Große Fuge) | Quarteto Alban Berg
 
-Hammerklavier, Daniel Barenboim
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FwZsDzGY1XA" frameborder="0" allowfullscreen></iframe>
+Sonata Hammerklavier | Daniel Barenboim
 
-Nona Sinfonia, Muti
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rOjHhS5MtvA" frameborder="0" allowfullscreen></iframe>
+Nona Sinfonia | Muti
 
-Espero que sirva como introdução a quem quer que tenha curiosidade sobre a música de Beethoven. 
-
-
+Espero que sirva como introdução a quem quer que tenha curiosidade sobre a música de Beethoven. A lista não possui a pretensão de ser a mais completa nem a mais relevante mas apenas ser um norte para quem quer precisa de um. Ademais, comenta aí embaixo! 

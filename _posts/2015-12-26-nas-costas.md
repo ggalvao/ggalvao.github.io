@@ -15,4 +15,4 @@ featured: false
 
 Fiz essa foto em 2013, em Brasília, nos arredores do Museu Nacional.
 
-![Nas costas](nascostas.jpg)
+![Nas costas][nascostas.jpg]

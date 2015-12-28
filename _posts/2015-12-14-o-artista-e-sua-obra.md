@@ -4,8 +4,8 @@ title: "O Artista e sua Obra"
 description:
 headline:
 modified: 2015-12-14
-category: music
-tags: [music,arts]
+category: música
+tags: [música,artes]
 imagefeature: barenboim.jpg
 mathjax:
 chart:
